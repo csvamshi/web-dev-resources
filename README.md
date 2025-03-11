@@ -1,1 +1,4 @@
-# web-dev-resources
+# web-dev-resource
+
+Rescoures
+https://flaviocopes.com/access/
