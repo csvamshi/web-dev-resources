@@ -1,5 +1,5 @@
 # web-dev-resource
 
-Rescoures 
+Rescoures   
 https://flaviocopes.com/access/   
 https://www.w3schools.com/
