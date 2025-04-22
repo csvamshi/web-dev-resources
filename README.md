@@ -8,3 +8,4 @@ https://web.dev/
 
 AI   
 https://chatgpt.com/    
+https://www.perplexity.ai/   
