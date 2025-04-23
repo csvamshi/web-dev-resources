@@ -9,3 +9,4 @@ https://web.dev/
 AI   
 https://chatgpt.com/    
 https://www.perplexity.ai/   
+https://gemini.google.com/app?hl=en-IN.   
