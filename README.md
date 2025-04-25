@@ -6,6 +6,7 @@ https://www.w3schools.com/
 https://developer.mozilla.org/en-US/   
 https://web.dev/    
 https://roadmap.sh/   
+https://www.freecodecamp.org/   
 
 AI   
 https://chatgpt.com/    
